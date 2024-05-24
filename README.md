@@ -6,9 +6,9 @@ This Drum Kit project is a web-based interactive application that allows users t
 
 
 ## Features:
--HTML Structure: The HTML file sets up the basic structure of the web page, including a title, a set of drum buttons, and a footer.<br>
--CSS Styling: The CSS file enhances the visual appearance with a dark-themed background, styled buttons with drum images, and responsive text elements.<br>
--JavaScript Functionality: The JavaScript file adds interactivity, allowing users to play sounds by clicking buttons or pressing keys. It also includes visual feedback by temporarily changing the button's appearance when pressed.<br>
+-**HTML Structure**: The HTML file sets up the basic structure of the web page, including a title, a set of drum buttons, and a footer.<br>
+-**CSS Styling**: The CSS file enhances the visual appearance with a dark-themed background, styled buttons with drum images, and responsive text elements.<br>
+-**JavaScript Functionality**: The JavaScript file adds interactivity, allowing users to play sounds by clicking buttons or pressing keys. It also includes visual feedback by temporarily changing the button's appearance when pressed.<br>
 
 
 ## Technologies Used:
