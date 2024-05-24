@@ -11,7 +11,7 @@ This Drum Kit project is a web-based interactive application that allows users t
 -JavaScript Functionality: The JavaScript file adds interactivity, allowing users to play sounds by clicking buttons or pressing keys. It also includes visual feedback by temporarily changing the button's appearance when pressed.<br>
 
 
-##Technologies Used:
+## Technologies Used:
 -**HTML**: For structuring the webpage.<br>
 -**CSS**: For styling and visual enhancements.<br>
 -**JavaScript**: For adding interactive features and handling events.<br>
